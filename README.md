@@ -1,5 +1,5 @@
-## Dynamic Programming & DSA Problems
-In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems 
+# Dynamic Programming & DSA Problems
+In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 
 
 # Array
