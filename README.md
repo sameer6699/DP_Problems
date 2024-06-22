@@ -43,3 +43,8 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | ------- |
 | [0012-integer-to-roman](https://github.com/sameer6699/DP_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sameer6699/DP_Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sameer6699/DP_Problems/tree/master/0014-longest-common-prefix) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sameer6699/DP_Problems/tree/master/0014-longest-common-prefix) |
