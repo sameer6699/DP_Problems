@@ -28,3 +28,15 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sameer6699/DP_Problems/tree/master/0542-01-matrix) |
+# Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sameer6699/DP_Problems/tree/master/0012-integer-to-roman) |
+# Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sameer6699/DP_Problems/tree/master/0012-integer-to-roman) |
+# String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sameer6699/DP_Problems/tree/master/0012-integer-to-roman) |
