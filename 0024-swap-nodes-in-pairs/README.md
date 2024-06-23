@@ -37,10 +37,11 @@
 <h2> Explnation </h2>
 
 <dl>
-  <dt>Coffee</dt>
-  <dd>- black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>- white cold drink</dd>
+  <dt>ListNode Class: </dt>
+  <dd> Defines the structure of a node in the linked list. </dd>
+  <dt> swapPairs Method: </dt>
+  <dd>- A dummy node is used to simplify the swapping process, especially for the head of the list. </dd>
+	
 </dl>
 
 
