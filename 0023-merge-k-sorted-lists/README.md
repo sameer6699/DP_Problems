@@ -52,7 +52,8 @@ merging them into one sorted list:
 	<li>Explanation</li>
 	<li><code>List Node Class:</code>Defines the structure of a node in the linked list.</li>
 	<li>mergeKLists Method:</li>
-	<li><code>-10<sup>4</sup> &lt;= lists[i][j] &lt;= 10<sup>4</sup></code></li>
-	<li><code>lists[i]</code> is sorted in <strong>ascending order</strong>.</li>
-	<li>The sum of <code>lists[i].length</code> will not exceed <code>10<sup>4</sup></code>.</li>
+	<li>Uses a min-heap to keep track of the smallest node among the heads of the lists.
+	Initializes the heap with the head of each list.
+	Extracts the smallest node from the heap, add it to the result list, and pushes the next node from the same list into the heap.
+	It continues until the heap is empty.</li>
 </ul>
