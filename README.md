@@ -1,6 +1,7 @@
 # Dynamic Programming & DSA Problems
 In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0542-01-matrix](https://github.com/sameer6699/DP_Problems/tree/master/0542-01-matrix) |
+| [0022-generate-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0022-generate-parentheses) |
 
 
 # Array
@@ -57,6 +58,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0014-longest-common-prefix](https://github.com/sameer6699/DP_Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sameer6699/DP_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0022-generate-parentheses) |
 # Trie
 |  |
 | ------- |
@@ -65,6 +67,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sameer6699/DP_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0022-generate-parentheses) |
 # Linked List
 |  |
 | ------- |
