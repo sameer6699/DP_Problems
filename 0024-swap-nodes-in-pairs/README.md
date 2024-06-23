@@ -31,5 +31,5 @@
 	<li><code>0 &lt;= Node.val &lt;= 100</code></li>
 </ul>
 
-<h1> Solution for the Above Problem</h1>
+<h1> Solution </h1>
 <p> To solve the problem of swapping every two adjacent nodes in a linked list, we'll implement a function swap pairs. This function will iteratively swap nodes in pairs without modifying the nodes' values.</p>
