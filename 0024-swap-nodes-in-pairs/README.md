@@ -33,3 +33,14 @@
 
 <h1> Solution </h1>
 <p> To solve the problem of swapping every two adjacent nodes in a linked list, we'll implement a function swap pairs. This function will iteratively swap nodes in pairs without modifying the nodes' values.</p>
+
+<h2> Explnation </h2>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+
+
