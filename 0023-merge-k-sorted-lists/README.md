@@ -49,7 +49,7 @@ merging them into one sorted list:
 𝑂(𝑁log𝑘) O(Nlogk), where 𝑁 N is the total number of nodes and  𝑘 k is the number of linked lists. </p>
 
 <ul>
-	<li><code>k == lists.length</code></li>
+	<li>Explanation</li>
 	<li><code>0 &lt;= k &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= lists[i].length &lt;= 500</code></li>
 	<li><code>-10<sup>4</sup> &lt;= lists[i][j] &lt;= 10<sup>4</sup></code></li>
