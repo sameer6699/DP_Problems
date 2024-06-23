@@ -73,6 +73,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameer6699/DP_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sameer6699/DP_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sameer6699/DP_Problems/tree/master/0023-merge-k-sorted-lists) |
 # Stack
 |  |
 | ------- |
@@ -81,3 +82,15 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sameer6699/DP_Problems/tree/master/0021-merge-two-sorted-lists) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sameer6699/DP_Problems/tree/master/0023-merge-k-sorted-lists) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sameer6699/DP_Problems/tree/master/0023-merge-k-sorted-lists) |
+# Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sameer6699/DP_Problems/tree/master/0023-merge-k-sorted-lists) |
