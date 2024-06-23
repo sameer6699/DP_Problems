@@ -12,6 +12,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0018-4sum](https://github.com/sameer6699/DP_Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sameer6699/DP_Problems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sameer6699/DP_Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0088-merge-sorted-array) |
 | [0542-01-matrix](https://github.com/sameer6699/DP_Problems/tree/master/0542-01-matrix) |
 # Two Pointers
@@ -24,6 +25,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sameer6699/DP_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameer6699/DP_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/sameer6699/DP_Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0088-merge-sorted-array) |
 # Sorting
 |  |
