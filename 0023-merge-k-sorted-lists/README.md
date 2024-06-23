@@ -50,8 +50,8 @@ merging them into one sorted list:
 
 <ul>
 	<li>Explanation</li>
-	<li><code>0 &lt;= k &lt;= 10<sup>4</sup></code></li>
-	<li><code>0 &lt;= lists[i].length &lt;= 500</code></li>
+	<li><code>List Node Class:</code>Defines the structure of a node in the linked list.</li>
+	<li>mergeKLists Method:</li>
 	<li><code>-10<sup>4</sup> &lt;= lists[i][j] &lt;= 10<sup>4</sup></code></li>
 	<li><code>lists[i]</code> is sorted in <strong>ascending order</strong>.</li>
 	<li>The sum of <code>lists[i].length</code> will not exceed <code>10<sup>4</sup></code>.</li>
