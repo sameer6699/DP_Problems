@@ -41,4 +41,6 @@
 <dd>- <b>reverse_linked_list Function:</b> Reverses k nodes of the linked list starting from a given node.</dd>
 <dd>- <b>Length Calculation:</b> First, we calculate the length of the linked list to ensure we only reverse complete groups of k nodes.</dd>
 <dd>- <b>Dummy Node:</b> Used to simplify the edge cases and provide a starting point for the reversed list.</dd>
+<dd>- <b>Iterative Reversal:</b> We reverse each group of k nodes and connect them correctly.</dd>
+<dd>- <b>Connecting Groups:</b> Properly connect the reversed groups with the next part of the list and the previous part.</dd>
 </dl>
