@@ -25,3 +25,6 @@ The first occurrence is at index 0, so we return 0.
 	<li><code>1 &lt;= haystack.length, needle.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>haystack</code> and <code>needle</code> consist of only lowercase English characters.</li>
 </ul>
+
+<h1> Solution </h1>
+<p> To solve the problem of finding the index of the first occurrence of a needle in a haystack, we can use Python's built-in string method find(). This method returns the lowest index in the string where the substring needle is found within the slice of haystack or -1 if the substring is not found.</p>
