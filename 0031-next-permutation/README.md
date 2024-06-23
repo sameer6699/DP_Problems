@@ -55,3 +55,10 @@
 <li><b>Swap the pivot with the rightmost successor.</b></li>
 <li><b>Reverse the suffix:</b> This gives the smallest lexicographical order for the suffix, ensuring we get the next permutation.</li>
 </ol>
+
+<h1>Explanation</h1>
+<ul>
+	<li>Identify the longest non-increasing suffix: <p>Traverse from the end of the list to find the first element that is not in increasing order.
+This identifies the part of the list that needs to be modified to get the next permutation.</p></li>
+	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
+</ul>
