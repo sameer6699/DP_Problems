@@ -47,3 +47,12 @@ merging them into one sorted list:
 <h1> Solution for the Given Problem </h1>
 <p> To merge k sorted linked lists into one sorted linked list, we can use a min-heap (priority queue) to efficiently get the smallest node among the heads of the lists. This approach helps in maintaining the overall time complexity to 
 𝑂(𝑁log𝑘) O(Nlogk), where 𝑁 N is the total number of nodes and  𝑘 k is the number of linked lists. </p>
+
+<ul>
+	<li><code>k == lists.length</code></li>
+	<li><code>0 &lt;= k &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= lists[i].length &lt;= 500</code></li>
+	<li><code>-10<sup>4</sup> &lt;= lists[i][j] &lt;= 10<sup>4</sup></code></li>
+	<li><code>lists[i]</code> is sorted in <strong>ascending order</strong>.</li>
+	<li>The sum of <code>lists[i].length</code> will not exceed <code>10<sup>4</sup></code>.</li>
+</ul>
