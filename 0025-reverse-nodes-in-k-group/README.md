@@ -35,8 +35,10 @@
 <p> To reverse the nodes of a linked list in groups of k, we can iteratively reverse each group of k nodes while keeping track of the pointers to connect the reversed groups. </p>
 
 <dl> Explanation
-  <dt>Coffee</dt>
-  <dd>- black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>- white cold drink</dd>
+<dt> List Node Classes </dt>
+<dd>- Defines the structure of a node in the linked list.</dd>
+<dt>reverseKGroup Method</dt>
+<dd>- <b>reverse_linked_list Function:</b> Reverses k nodes of the linked list starting from a given node.</dd>
+<dd>- <b>Length Calculation:</b> First, we calculate the length of the linked list to ensure we only reverse complete groups of k nodes.</dd>
+<dd>- <b>Dummy Node:</b> Used to simplify the edge cases and provide a starting point for the reversed list.</dd>
 </dl>
