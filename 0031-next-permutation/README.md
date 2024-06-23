@@ -45,3 +45,13 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+<h1> Solution </h1>
+<p> To find the next permutation of an array of integers in place, we can follow these steps: </p>
+<ol> Steps:
+<li><b>Identify the longest non-increasing suffix:</b> This is the part of the array where elements are in descending order from the end.</li>
+<li><b>Find the pivot:</b> The element just before the suffix. This element will be swapped to get the next permutation.</li>
+<li><b>Find the rightmost successor:</b> The smallest element in the suffix which is larger than the pivot.</li>
+<li><b>Swap the pivot with the rightmost successor.</b></li>
+<li><b>Reverse the suffix:</b> This gives the smallest lexicographical order for the suffix, ensuring we get the next permutation.</li>
+</ol>
