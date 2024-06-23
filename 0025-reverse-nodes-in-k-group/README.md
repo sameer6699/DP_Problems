@@ -30,3 +30,13 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow-up:</strong> Can you solve the problem in <code>O(1)</code> extra memory space?</p>
+
+<h1> Solution </h1>
+<p> To reverse the nodes of a linked list in groups of k, we can iteratively reverse each group of k nodes while keeping track of the pointers to connect the reversed groups. </p>
+
+<dl> Explanation
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
