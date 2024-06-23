@@ -2,6 +2,7 @@
 In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0542-01-matrix](https://github.com/sameer6699/DP_Problems/tree/master/0542-01-matrix) |
 | [0022-generate-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0032-longest-valid-parentheses) |
 
 
 # Array
@@ -85,6 +86,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0032-longest-valid-parentheses) |
 # Recursion
 |  |
 | ------- |
@@ -107,6 +109,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameer6699/DP_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0032-longest-valid-parentheses) |
 # Bit Manipulation
 |  |
 | ------- |
