@@ -37,10 +37,18 @@
 <h2> Explnation </h2>
 
 <dl>
-  <dt>ListNode Class: </dt>
-  <dd> Defines the structure of a node in the linked list. </dd>
-  <dt> swapPairs Method: </dt>
-  <dd>- A dummy node is used to simplify the swapping process, especially for the head of the list. </dd>
+<dt>ListNode Class: </dt>
+<dd> Defines the structure of a node in the linked list. </dd>
+	
+<dt> swapPairs Method: </dt>
+<dd>- A dummy node is used to simplify the swapping process, especially for the head of the list. </dd>
+<dd>- We use a pointer current starting from the dummy node. </dd>
+<dd>- We iterate through the list, swapping nodes in pairs </dd>
+<dd>- first points to the first node of the pair. </dd>
+<dd>- second points to the second node of the pair. </dd>
+<dd>- The swap is performed by adjusting the next pointers. </dd>
+<dd>- After swapping, we move current to the next pair. </dd>
+
 	
 </dl>
 
