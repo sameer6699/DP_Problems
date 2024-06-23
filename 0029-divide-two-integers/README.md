@@ -30,3 +30,6 @@
 	<li><code>-2<sup>31</sup> &lt;= dividend, divisor &lt;= 2<sup>31</sup> - 1</code></li>
 	<li><code>divisor != 0</code></li>
 </ul>
+
+<h1> Solution </h1>
+<p> To solve the problem of dividing two integers without using multiplication, division, or the mod operator, we can use bitwise operations and subtraction. The idea is to repeatedly subtract the divisor from the dividend while counting the number of times this subtraction is possible. We need to handle both positive and negative cases, and ensure the result is within the 32-bit signed integer range.</p>
