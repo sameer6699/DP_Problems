@@ -59,6 +59,9 @@
 <h1>Explanation</h1>
 <ul>
 	<li>Identify the longest non-increasing suffix: <p>Traverse from the end of the list to find the first element that is not in increasing order.
-This identifies the part of the list that needs to be modified to get the next permutation.</p></li>
-	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
+	This identifies the part of the list that needs to be modified to get the next permutation.</p></li>
+	<li>Find the pivot: <p>The element just before the suffix <code>(nums[i])</code>that needs to be swapped.</p></li>
+	<li>Find the rightmost successor: <p>The smallest element in the suffix that is larger than the pivot <code>(nums[j]).</code></p></li>
+	<li>Swap the pivot with the rightmost successor:<p>This ensures that the next permutation is larger than the current one.</p></li>
+	<li>Reverse the suffix:<p>Reversing the suffix gives the smallest lexicographical order, ensuring that the permutation is the immediate next one.</p></li>
 </ul>
