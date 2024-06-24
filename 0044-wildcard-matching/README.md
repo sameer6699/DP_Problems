@@ -40,3 +40,6 @@
 	<li><code>s</code> contains only lowercase English letters.</li>
 	<li><code>p</code> contains only lowercase English letters, <code>&#39;?&#39;</code> or <code>&#39;*&#39;</code>.</li>
 </ul>
+
+<h1> Solution </h1>
+<p>To solve the wildcard matching problem with support for <code>'?'</code> and <code>'*',</code> we can use dynamic programming. The idea is to maintain a 2D DP table where <code>dp[i][j]</code> represents if the first <code>i</code> characters in the string <code> s </code> can match the first<code> j</code> characters of the pattern p.</p>
