@@ -29,8 +29,8 @@
 
 <ul><h1><b>Explanation:</b></h1>
 	<li>Initialization: <p> Use two pointers, left starting at the beginning and right at the end of the array.
-Maintain two variables, <code> left_max,</code> and <code>right_max,</code> to store the maximum heights encountered from the left and right, respectively.
-Use a variable water to accumulate the total amount of trapped water.</p></li>
+	Maintain two variables, <code> left_max,</code> and <code>right_max,</code> to store the maximum heights encountered from the left and right, respectively.
+	<br>Use a variable water to accumulate the total amount of trapped water.</p></li>
 	<li>Two-Pointer Traversal:<p>While left is less than right, compare the heights at the left and right pointers.
 	If the height at left is less than or equal to the height at right:
 If <code>height[left]</code> is greater than or equal to <code>left_max,</code> update <code>left_max.</code>
