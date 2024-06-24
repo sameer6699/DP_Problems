@@ -24,3 +24,21 @@
 	<li><code>1 &lt;= n &lt;= 2 * 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= height[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
+<h1> Solution </h1>
+<p> To solve the "Trapping Rain Water" problem, we can use the two-pointer approach. This approach is efficient in terms of both time and space complexity. The idea is to use two pointers to traverse the height array from both ends towards the center and calculate the trapped water based on the minimum of the maximum heights encountered. </p>
+
+<ul><h1><b>Explanation:</b></h1>
+	<li>Initialization: <p> Use two pointers, left starting at the beginning and right at the end of the array.
+Maintain two variables, <code> left_max,</code> and <code>right_max,</code> to store the maximum heights encountered from the left and right, respectively.
+Use a variable water to accumulate the total amount of trapped water.</p></li>
+	<li>Two-Pointer Traversal:<p>While left is less than right, compare the heights at the left and right pointers.
+	If the height at left is less than or equal to the height at right:
+If <code>height[left]</code> is greater than or equal to <code>left_max,</code> update <code>left_max.</code>
+Otherwise, calculate the trapped water at <code>left as left_max - height[left]</code> and add it to water.
+Move the left pointer to the right.
+If the height at the right is less than the height at the left:
+If height[right] is greater than or equal to right_max, update right_max.
+Otherwise, calculate the trapped water at right as right_max - height[right] and add it to water.
+Move the right pointer to the left.</p></li>
+</ul>
+
