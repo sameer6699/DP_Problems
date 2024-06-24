@@ -43,3 +43,12 @@
 
 <h1> Solution </h1>
 <p>To solve the wildcard matching problem with support for <code>'?'</code> and <code>'*',</code> we can use dynamic programming. The idea is to maintain a 2D DP table where <code>dp[i][j]</code> represents if the first <code>i</code> characters in the string <code> s </code> can match the first<code> j</code> characters of the pattern p.</p>
+
+<ul> <h1>Explnation</h1>
+	<li><b>DP Table Initialization:</b> <p><code>dp[0][0]</code> is True because an empty pattern matches an empty string.
+<code> dp[0][j] </code> is True if the pattern <code> p </code> up to <code> j </code> characters consists only of <code> '*'</code> because <code> '*'</code> can match an empty sequence.
+<code> dp[i][0] </code> is False for <code> i > 0 </code> because a non-empty string cannot match an empty pattern.</p></li>
+	<li><b>DP table Update:</b> <p><code>If p[j-1] is '*', it can match zero characters (dp[i][j-1]) or one or more characters (dp[i-1][j]).
+If p[j-1] is ? or s[i-1] equals p[j-1], dp[i][j] is True if dp[i-1][j-1] is True.</code></p></li>
+	<li></li>
+</ul>
