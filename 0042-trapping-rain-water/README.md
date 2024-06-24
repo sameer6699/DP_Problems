@@ -37,8 +37,8 @@ If <code>height[left]</code> is greater than or equal to <code>left_max,</code> 
 Otherwise, calculate the trapped water at <code>left as left_max - height[left]</code> and add it to water.
 Move the left pointer to the right.
 If the height at the right is less than the height at the left:
-If height[right] is greater than or equal to right_max, update right_max.
-<br>Otherwise, calculate the trapped water at right as right_max - height[right] and add it to water.
+If height[right] is greater than or equal to right_max, update right_max.<br>
+Otherwise, calculate the trapped water at right as right_max - height[right] and add it to water.
 Move the right pointer to the left.</p></li>
 </ul>
 
