@@ -3,6 +3,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0542-01-matrix](https://github.com/sameer6699/DP_Problems/tree/master/0542-01-matrix) |
 | [0022-generate-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
 
 
 # Array
@@ -14,6 +15,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sameer6699/DP_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sameer6699/DP_Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0088-merge-sorted-array) |
 | [0542-01-matrix](https://github.com/sameer6699/DP_Problems/tree/master/0542-01-matrix) |
 # Two Pointers
@@ -27,6 +29,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0027-remove-element](https://github.com/sameer6699/DP_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sameer6699/DP_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sameer6699/DP_Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0088-merge-sorted-array) |
 # Sorting
 |  |
@@ -87,6 +90,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
 # Recursion
 |  |
 | ------- |
@@ -114,3 +118,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sameer6699/DP_Problems/tree/master/0029-divide-two-integers) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
