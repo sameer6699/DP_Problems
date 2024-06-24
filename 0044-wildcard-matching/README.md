@@ -48,7 +48,7 @@
 	<li><b>DP Table Initialization:</b> <p><code>dp[0][0]</code> is True because an empty pattern matches an empty string.
 <code> dp[0][j] </code> is True if the pattern <code> p </code> up to <code> j </code> characters consists only of <code> '*'</code> because <code> '*'</code> can match an empty sequence.
 <code> dp[i][0] </code> is False for <code> i > 0 </code> because a non-empty string cannot match an empty pattern.</p></li>
-	<li><b>DP table Update:</b> <p><code>If p[j-1] is '*', it can match zero characters (dp[i][j-1]) or one or more characters (dp[i-1][j]).
-If p[j-1] is ? or s[i-1] equals p[j-1], dp[i][j] is True if dp[i-1][j-1] is True.</code></p></li>
-	<li></li>
+	<li><b>DP table Update:</b> <p>If <code>p[j-1]</code> is <code>'*'</code>, it can match zero characters <code>(dp[i][j-1])</code> or one or more characters <code>(dp[i-1][j]).</code>
+If <code> p[j-1]</code> is <code> ? </code>or <code>s[i-1]</code> equals <code>p[j-1]</code>, <code>dp[i][j]</code> is True if <code>dp[i-1][j-1]</code> is True.</p></li>
+	<li><b>Result</b><p>he value at <code>dp[m][n]</code> gives the result for the entire string <code>s</code> and pattern <code>p</code>.</p></li>
 </ul>
