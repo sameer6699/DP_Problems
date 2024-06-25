@@ -30,7 +30,7 @@
 
 <h1> Solution </h1>
 
-<ul> Explanation 
+<ul> <h3> Explanation</h3> 
 	<li><b>Class Definition:</b><p> The Solution class contains the search method, which takes nums and targets as input parameters.</p></li>
 	<li><b>Method Implementation:</b> he method starts by initializing <code>left</code> and <code>right</code> pointers.
 	It uses a while loop to perform a binary search, adjusting pointers based on the comparison of target with <code> nums[mid].</code>
