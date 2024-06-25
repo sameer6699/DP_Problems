@@ -16,6 +16,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sameer6699/DP_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sameer6699/DP_Problems/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0088-merge-sorted-array) |
 | [0542-01-matrix](https://github.com/sameer6699/DP_Problems/tree/master/0542-01-matrix) |
@@ -129,3 +130,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/sameer6699/DP_Problems/tree/master/0044-wildcard-matching) |
+# Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0033-search-in-rotated-sorted-array) |
