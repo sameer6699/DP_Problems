@@ -47,5 +47,5 @@ If the value at mid is less than the target, move the left pointer to <code> mid
 If the value at mid is greater than the target, move the right pointer to <code> id - 1.</code>
 If the loop exits without finding the target, <code>left</code> will be the insertion position.</p></li>
 <li><b>Return Value:</b> <p> The method returns the index where the target is found or the index where it should be inserted to maintain sorted order.</p></li>
-<li>This solution ensures an O(log n) time complexity by using binary search to efficiently find the target or the appropriate insert position in the sorted array</li>
+<li>This solution ensures an <code> O(log n) </code> time complexity by using binary search to efficiently find the target or the appropriate insert position in the sorted array</li>
 </ul>
