@@ -27,3 +27,15 @@
 	<li><code>nums</code> is an ascending array that is possibly rotated.</li>
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<h1> Solution </h1>
+
+<ul> Explanation 
+	<li><b>Class Definition:</b><p> The Solution class contains the search method, which takes nums and targets as input parameters.</p></li>
+	<li><b>Method Implementation:</b> he method starts by initializing <code>left</code> and <code>right</code> pointers.
+	It uses a while loop to perform a binary search, adjusting pointers based on the comparison of target with <code> nums[mid].</code>
+	It checks whether the left or right half is sorted and narrows the search range accordingly.
+	If the target is found, it returns the index; otherwise, it returns <code> -1</code> after the loop.</li>
+	<li><p>This solution maintains the O(log n) time complexity by leveraging binary search on the rotated sorted array.</p></li>
+</ul>
+
