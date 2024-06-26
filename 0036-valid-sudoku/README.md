@@ -55,3 +55,7 @@
 	<li><code>board[i].length == 9</code></li>
 	<li><code>board[i][j]</code> is a digit <code>1-9</code> or <code>&#39;.&#39;</code>.</li>
 </ul>
+
+<h1>Solution</h1>
+
+<p>This code defines a Solution class with a method called <code>ValidSudoku</code> that checks if a given<code> 9x9</code> Sudoku board is valid according to the specified rules. It uses dictionaries to track the occurrences of each number in the rows, columns, and <code>3x3 sub-boxes.</code> The example demonstrates the function with two different Sudoku boards, printing the results for each.</p>
