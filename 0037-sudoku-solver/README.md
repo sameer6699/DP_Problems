@@ -30,3 +30,11 @@
 	<li><code>board[i][j]</code> is a digit or <code>&#39;.&#39;</code>.</li>
 	<li>It is <strong>guaranteed</strong> that the input board has only one solution.</li>
 </ul>
+<h1>Solution</h1>
+<ul>
+	<li><b>is_valid Function:</b> <p>Checks if a given number can be placed at a specific position without violating Sudoku rules.
+Could you check the row, column, and the 3x3 sub-box for the presence of the number? </p></li>
+	<li><b>solve Function:</b> <p>Uses backtracking to try filling each empty cell with a valid number. If a valid number is found, it proceeds to the next cell. If no valid number can be placed, it backtracks and tries the next possible number for the previous cell.</p></li>
+	<li><b>solveSudoku Method:</b> <p>Calls the solve function to start the solving process.</p></li>
+</ul>
+
