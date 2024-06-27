@@ -145,3 +145,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0033-search-in-rotated-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sameer6699/DP_Problems/tree/master/0035-search-insert-position) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/sameer6699/DP_Problems/tree/master/1916-find-center-of-star-graph) |
