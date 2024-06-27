@@ -29,3 +29,5 @@
 	<li><code>u<sub>i</sub> != v<sub>i</sub></code></li>
 	<li>The given <code>edges</code> represent a valid star graph.</li>
 </ul>
+<h1>Solution</h1>
+<p>In this solution, we leverage the property of a star graph where the center node is the common node in all edges. By checking the first two edges, we can determine the center node as the node that appears in both edges.</p>
