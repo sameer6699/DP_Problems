@@ -66,3 +66,4 @@ It can be shown that we cannot obtain a greater total importance than 20.
 		<li><h3>Calculating Importance:</h3> We calculate the total importance by summing the values of the connected cities for each road.</li>
 	</ol>
 </p>
+<p>This approach ensures that the cities with the most connections get the highest possible values, thus maximizing the total importance of all roads.</p>
