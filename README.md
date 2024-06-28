@@ -44,6 +44,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0016-3sum-closest](https://github.com/sameer6699/DP_Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sameer6699/DP_Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0088-merge-sorted-array) |
+| [2379-maximum-total-importance-of-roads](https://github.com/sameer6699/DP_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sameer6699/DP_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [2379-maximum-total-importance-of-roads](https://github.com/sameer6699/DP_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 # Merge Sort
 |  |
 | ------- |
@@ -139,6 +141,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/sameer6699/DP_Problems/tree/master/0044-wildcard-matching) |
+| [2379-maximum-total-importance-of-roads](https://github.com/sameer6699/DP_Problems/tree/master/2379-maximum-total-importance-of-roads) |
 # Binary Search
 |  |
 | ------- |
@@ -149,3 +152,4 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/sameer6699/DP_Problems/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/sameer6699/DP_Problems/tree/master/2379-maximum-total-importance-of-roads) |
