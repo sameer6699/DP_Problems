@@ -18,3 +18,19 @@
 	<li><code>1 &lt;=&nbsp;temperatures.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>30 &lt;=&nbsp;temperatures[i] &lt;= 100</code></li>
 </ul>
+
+<h1>Solution</h1>
+<p>To solve the "Daily Temperatures" problem, we can use a stack to keep track of the indices of the temperatures. The idea is to maintain a decreasing stack such that whenever we encounter a warmer temperature, we can pop from the stack and calculate the difference in days.</p>
+<p>
+<h1>Explanation:</h1>
+<ul>
+	<li><b><h3>Initialization:</h3></b>We initialize an array answer of the same length as temperatures with all elements set to 0.
+	We use a stack to keep track of the indices of the temperatures in a decreasing order. </li>
+	<li><b><h3>Iterate through the temperatures:</h3></b>For each temperature at index I, we check if it is warmer than the temperature at the index stored at the top of the stack.
+	If it is, we pop the index from the stack and calculate the difference between the current index I and the popped index to get the number of days until a warmer temperature.
+	We continue this process until the stack is empty or the current temperature is not warmer than the temperature at the top of the stack.
+	Finally, we push the current index i onto the stack.</li>
+	<li><b><h3>Return the result:</h3></b>After processing all the temperatures, the answer array will contain the number of days to wait for a warmer temperature for each day.</li>
+	<p>This approach ensures that each temperature is processed in constant time on average, making the solution efficient with a time complexity of <code>O(n).</code></p>
+</ul>	
+</p>
