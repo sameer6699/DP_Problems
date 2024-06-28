@@ -166,8 +166,10 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sameer6699/DP_Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sameer6699/DP_Problems/tree/master/0040-combination-sum-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sameer6699/DP_Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sameer6699/DP_Problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
