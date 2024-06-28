@@ -39,3 +39,14 @@ These are the only two combinations.
 	<li>All elements of <code>candidates</code> are <strong>distinct</strong>.</li>
 	<li><code>1 &lt;= target &lt;= 40</code></li>
 </ul>
+
+<h1>Solution</h1>
+<p>This solution uses a backtracking approach to find all unique combinations that sum up to the target.</p>
+
+<ul>
+	<li>The <code>combinationSum</code> method initializes the backtracking process.</li>
+	<li>The backtrack helper function performs the backtracking. It tries to build combinations by adding candidates to the current path and recursively exploring further until the target is reached or exceeded.</li>
+	<li>The result list stores all valid combinations found.</li>
+ <li>The example usage demonstrates how to call the <code>combinationSum</code> method with different inputs.</li>
+	
+</ul>
