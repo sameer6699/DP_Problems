@@ -24,6 +24,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sameer6699/DP_Problems/tree/master/0088-merge-sorted-array) |
 | [0542-01-matrix](https://github.com/sameer6699/DP_Problems/tree/master/0542-01-matrix) |
+| [0739-daily-temperatures](https://github.com/sameer6699/DP_Problems/tree/master/0739-daily-temperatures) |
 # Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0020-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sameer6699/DP_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sameer6699/DP_Problems/tree/master/0739-daily-temperatures) |
 # Recursion
 |  |
 | ------- |
@@ -137,6 +139,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sameer6699/DP_Problems/tree/master/0739-daily-temperatures) |
 # Greedy
 |  |
 | ------- |
