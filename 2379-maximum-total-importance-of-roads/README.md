@@ -60,9 +60,9 @@ It can be shown that we cannot obtain a greater total importance than 20.
 <h1><b>Explanation:</b></h1>
 <p>
 	<ol>
-		<li><b>Counting Connections:</b> We use a dictionary city_connections to count how many roads each city is connected to.</li>
-		<li><b>Sorting Cities:</b> We sort the cities based on the number of connections in descending order.</li>
-		<li><b>Assigning Values:</b> The cities with the most connections get the highest values</li>
-		<li><b>Calculating Importance:</b> We calculate the total importance by summing the values of the connected cities for each road.</li>
+		<li><h3>Counting Connections:</h3> We use a dictionary city_connections to count how many roads each city is connected to.</li>
+		<li><h3>Sorting Cities:</h3> We sort the cities based on the number of connections in descending order.</li>
+		<li><h3>Assigning Values:</h3> The cities with the most connections get the highest values</li>
+		<li><h3>Calculating Importance:</h3> We calculate the total importance by summing the values of the connected cities for each road.</li>
 	</ol>
 </p>
