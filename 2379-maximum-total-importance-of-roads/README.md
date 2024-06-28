@@ -18,7 +18,7 @@
 - The road (2,3) has an importance of 5 + 3 = 8.
 - The road (0,2) has an importance of 2 + 5 = 7.
 - The road (1,3) has an importance of 4 + 3 = 7.
-- The road (2,4) has an importance of 5 + 1 = 6.
+- The road (2,4) is important at 5 + 1 = 6.
 The total importance of all roads is 6 + 9 + 8 + 7 + 7 + 6 = 43.
 It can be shown that we cannot obtain a greater total importance than 43.
 </pre>
@@ -47,3 +47,22 @@ It can be shown that we cannot obtain a greater total importance than 20.
 	<li><code>a<sub>i</sub> != b<sub>i</sub></code></li>
 	<li>There are no duplicate roads.</li>
 </ul>
+
+<h1> Solution </h1>
+<p>To solve this problem, the idea is to assign the highest possible values to the cities that are connected by the most roads. Here's a step-by-step plan to achieve the optimal solution:</p>
+<ol>
+	<li>Count the number of roads each city is connected to.</li>
+	<li>Sort the cities by the number of roads in descending order.</li>
+	<li>Assign the highest values to the cities with the most roads.</li>
+	<li>Calculate the total importance of all roads using the assigned values.</li>
+</ol>
+
+<h1><b>Explanation:</b></h1>
+<p>
+	<ol>
+		<li><b>Counting Connections:</b> We use a dictionary city_connections to count how many roads each city is connected to.</li>
+		<li><b>Sorting Cities:</b> We sort the cities based on the number of connections in descending order.</li>
+		<li><b>Assigning Values:</b> The cities with the most connections get the highest values</li>
+		<li><b>Calculating Importance:</b> We calculate the total importance by summing the values of the connected cities for each road.</li>
+	</ol>
+</p>
