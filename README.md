@@ -162,4 +162,12 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/sameer6699/DP_Problems/tree/master/0038-count-and-say) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sameer6699/DP_Problems/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sameer6699/DP_Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
