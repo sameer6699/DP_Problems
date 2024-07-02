@@ -29,3 +29,15 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+<h1>Solution</h1>
+<p>To solve the problem of finding the best time to buy and sell stock to maximize profit, you can use a single-pass algorithm. The idea is to keep track of the minimum price encountered so far and calculate the maximum profit by comparing the current price with this minimum price.</p>
+
+<h2>Explantion</h2>
+<ul>
+	<li><h3>Initialization:</h3><code>min_price</code> is initialized to a very high value <code>(float('inf'))</code>.
+<code>max_profit</code> is initialized to <code>0</code>.</li>
+	<li><h3>Iteration through the prices:</h3>For each price, if it's lower than <code>min_price</code>, update <code>min_price</code>.
+Otherwise, calculate the profit by subtracting <code>min_price</code> from the current price. If this profit is higher than <code>max_profit</code>, update <code>max_profit</code>.</li>
+	<li><h3>Return the max_profit: </h3> : After iterating through all prices, the max_profit will be the maximum possible profit.</li>
+</ul>
+<h2>This algorithm ensures that we only pass through the prices list once, achieving a time complexity of <code>O(n)</code> and space complexity of <code>O(1)</code>.</h2>
