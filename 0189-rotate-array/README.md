@@ -47,9 +47,9 @@ rotate 2 steps to the right: [3,99,-1,-100]
 </ol>
 <h3>Explanation</h3>
 <ul>
-	<li><h2>Reverse the Entire Array:</h2>This makes the last k elements become the first k elements but in reverse order, and the first n-k elements become the last n-k elements but in reverse order.</li>
- 	<li><h2>Reverse the First k Elements:</h2>This restores the original order of the first k elements which are now in their final rotated positions.</li>
-  	<li><h2>Reverse the Remaining n-k Elements:</h2>This restores the original order of the remaining elements.</li>
+	<li><h3>Reverse the Entire Array:</h3>This makes the last k elements become the first k elements but in reverse order, and the first n-k elements become the last n-k elements but in reverse order.</li>
+ 	<li><h3>Reverse the First k Elements:</h3>This restores the original order of the first k elements which are now in their final rotated positions.</li>
+  	<li><h3>Reverse the Remaining n-k Elements:</h3>This restores the original order of the remaining elements.</li>
 	
 </ul>
 <h2>By following these steps, the array is rotated in place with O(1) extra space.</h2>
