@@ -169,6 +169,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0040-combination-sum-ii](https://github.com/sameer6699/DP_Problems/tree/master/0040-combination-sum-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sameer6699/DP_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sameer6699/DP_Problems/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -178,6 +179,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sameer6699/DP_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/sameer6699/DP_Problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,4 +196,8 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sameer6699/DP_Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
