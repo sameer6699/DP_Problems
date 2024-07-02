@@ -34,4 +34,4 @@ Otherwise, we decrease the count.</li>
 	<li><h3>Returning the Candidate:</h3>The candidate at the end of the first pass is the majority element because the problem guarantees its existence.</li>
 	
 </ul>
-<h1>This implementation ensures O(n) time complexity and O(1) space complexity.</h1>
+<h2>This implementation ensures O(n) time complexity and O(1) space complexity.</h2>
