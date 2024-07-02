@@ -38,3 +38,18 @@ rotate 2 steps to the right: [3,99,-1,-100]
 	<li>Try to come up with as many solutions as you can. There are at least <strong>three</strong> different ways to solve this problem.</li>
 	<li>Could you do it in-place with <code>O(1)</code> extra space?</li>
 </ul>
+<h1> Solution </h1>
+<p>To solve the problem of rotating an array to the right by k steps in place with O(1) extra space, we can use the reverse method. This involves reversing parts of the array and then reversing the entire array. Here's how you can implement it:</p>
+<ol>
+	<li>Reverse the entire array.</li>
+	<li>Reverse the first k elements.</li>
+	<li>Reverse the remaining <code>n - k</code>elements.</li>
+</ol>
+<h3>Explanation</h3>
+<ul>
+	<li><h2>Reverse the Entire Array:</h2>This makes the last k elements become the first k elements but in reverse order, and the first n-k elements become the last n-k elements but in reverse order.</li>
+ 	<li><h2>Reverse the First k Elements:</h2>This restores the original order of the first k elements which are now in their final rotated positions.</li>
+  	<li><h2>Reverse the Remaining n-k Elements:</h2>This restores the original order of the remaining elements.</li>
+	
+</ul>
+<h2>By following these steps, the array is rotated in place with O(1) extra space.</h2>
