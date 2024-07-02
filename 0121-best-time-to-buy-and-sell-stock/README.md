@@ -40,4 +40,4 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 Otherwise, calculate the profit by subtracting <code>min_price</code> from the current price. If this profit is higher than <code>max_profit</code>, update <code>max_profit</code>.</li>
 	<li><h3>Return the max_profit: </h3> : After iterating through all prices, the max_profit will be the maximum possible profit.</li>
 </ul>
-<h2>This algorithm ensures that we only pass through the prices list once, achieving a time complexity of <code>O(n)</code> and space complexity of <code>O(1)</code>.</h2>
+<h3>This algorithm ensures that we only pass through the prices list once, achieving a time complexity of <code>O(n)</code> and space complexity of <code>O(1)</code>.</h3>
