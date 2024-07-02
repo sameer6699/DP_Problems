@@ -168,6 +168,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0039-combination-sum](https://github.com/sameer6699/DP_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer6699/DP_Problems/tree/master/0040-combination-sum-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sameer6699/DP_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -177,4 +178,20 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sameer6699/DP_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
