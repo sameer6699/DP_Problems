@@ -51,3 +51,15 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+<h1> Solution </h1>
+<p> Here's the Python solution for the problem statement you provided. The solution involves modifying the input array nums in place to ensure each unique element appears at most twice, maintaining the order of elements, and using <code>O(1)</code>extra memory.</p>
+<ul>
+	<li><h3>Initialization:</h3>We initialize count to 1 to track the number of occurrences of the current element and j to 1 as the position to place the next allowed element.</li>
+ 	<li><h3>Iteration Through Array:</h3>We iterate through the array starting from the second element.
+Count Duplicates: If the current element is the same as the previous one, we increment count. Otherwise, we reset the count to 1.</li>
+  	<li><h3>Place Element:</h3> If the count is less than or equal to 2, we place the element at the <code>j<sup>th</sup></code> position and increment j.</li>
+   	<li><h3>Return Length:</h3>Finally, we return j as the new length of the array with duplicates removed.</li>
+    <p>This solution ensures that each unique element appears at most twice while maintaining the order and using constant extra space. The modified array is updated in place, and the function returns the length of the resulting array.</p>
+	
+</ul>
