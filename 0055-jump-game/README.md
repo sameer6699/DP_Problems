@@ -40,4 +40,5 @@
 	</li>
 	<li>After the loop, check if max_reachable is at least the last index of the array (len(nums) - 1). If it is, return true; otherwise, return false.</li>
 </ul>
+<p>This algorithm runs in O(n) time complexity, where n is the length of the array, making it efficient for the given constraints.</p>
 
