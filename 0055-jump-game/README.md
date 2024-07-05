@@ -26,3 +26,18 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
+<h1>Solution</h1>
+<p> To solve the problem of determining whether you can reach the last index of the array given the maximum jump lengths at each position, you can use a greedy approach. The idea is to keep track of the farthest index you can reach and update this as you iterate through the array. If you can reach or exceed the last index, return true; otherwise, return false.</p>
+
+<h1>Explanation</h1>
+<ul>
+	<li>Initialize max_reachable to 0, which keeps track of the farthest index that can be reached.</li>
+	<li>Iterate through each index i of the array:
+	<ol>
+		<li>If i is greater than max_reachable, it means the current index is not reachable, so return false.</li>
+		<li>Otherwise, update max_reachable to the maximum of its current value and I + nums[i], representing the farthest index that can be reached from the current index.</li>
+	</ol>
+	</li>
+	<li>After the loop, check if max_reachable is at least the last index of the array (len(nums) - 1). If it is, return true; otherwise, return false.</li>
+</ul>
+
