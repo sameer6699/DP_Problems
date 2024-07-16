@@ -43,3 +43,5 @@ Output:
 <strong>Explanation:</strong>
 This DataFrame contains 10 rows and 5 columns.
 </pre>
+<h1>Explnation</h1>
+<p>This code defines the function <code>'getDataframeSize'</code> according to the given signature, which takes a <code>'pd.DataFrame'</code> as input and returns a list containing the number of rows and columns. The driver code provided at the end creates a sample DataFrame, calls the function to get the size, and prints the result.</p>
