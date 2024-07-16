@@ -1,11 +1,9 @@
 import pandas as pd
 from typing import List
-
 def getDataframeSize(players: pd.DataFrame) -> List[int]:
     num_rows = players.shape[0]
     num_columns = players.shape[1]
     return [num_rows, num_columns]
-
 data = {
     'player_id': [846, 749, 155, 583, 388, 883, 355, 247, 761, 642],
     'name': ['Mason', 'Riley', 'Bob', 'Isabella', 'Zachary', 'Ava', 'Violet', 'Thomas', 'Jack', 'Charlie'],
