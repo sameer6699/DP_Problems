@@ -18,3 +18,37 @@
 	<li><code>num1</code> and <code>num2</code> consist of digits only.</li>
 	<li>Both <code>num1</code> and <code>num2</code>&nbsp;do not contain any leading zero, except the number <code>0</code> itself.</li>
 </ul>
+<h1>Explanation</h1>
+<p> 
+	
+<ul>
+	<li>Initialization: 
+	<ul>
+		<li> Check for edge cases where either <code>num1</code> or <code>num2</code> is <code>"0".</code></li>
+		<li>Initialize a result array with zeros. The maximum possible length of the product of two numbers is the sum of their lengths.</li>
+	</ul>
+	</li>
+	<li>Reversing String: 
+	<ul>
+		<li>Reverse both strings to simplify the position calculations when multiplying each digit.</li>
+	</ul>
+	</li>
+	<li>Multiplication:
+	<ul>
+		<li> Use two nested loops to multiply each digit of num1 with each digit of num2.</li>
+		<li> Add the product to the corresponding position in the result array, handling carry-over to the next position.</li>
+	</ul>
+	</li>
+	<li>Removing Leading Zeros:
+	<ul>
+		<li> Remove any leading zeros from the result array.</li>
+	</ul>
+	</li>
+	<li>Result Conversion:
+ 		<ul>
+  			<li>Convert the result array back to a string by reversing it and joining the digits.</li>
+		</ul>
+  	</li>
+</ul>
+</p>
+<h2>This approach ensures we don't convert the input strings directly to integers, adhering to the problem constraints.</h2>
