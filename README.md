@@ -162,6 +162,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/sameer6699/DP_Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
 ## Array
 |  |
 | ------- |
@@ -202,6 +203,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/sameer6699/DP_Problems/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -214,4 +216,8 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | ------- |
 | [0055-jump-game](https://github.com/sameer6699/DP_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sameer6699/DP_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
