@@ -175,6 +175,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sameer6699/DP_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sameer6699/DP_Problems/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/sameer6699/DP_Problems/tree/master/0274-h-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -197,6 +198,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/sameer6699/DP_Problems/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -223,4 +225,8 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sameer6699/DP_Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
