@@ -43,14 +43,14 @@
 			<li>farthest is the farthest point that can be reached from any index within the current range.</li>
 		</ul>
 		</li>
-		<li>
+		<li> Iteration:
 			<ul>
 				<li>Iterate through the array (excluding the last element since reaching the last element is the goal).</li>
 				<li>For each index, update the farthest to be the maximum of its current value or the farthest point that can be reached from the current index.</li>
-				<li>If the current index reaches current_end, we need another jump to go further. Increment jumps and update current_end to farthest.</li>
+				<li>If the current index reaches current_end, we need another jump. Increment jumps and update current_end to farthest.</li>
 			</ul>
 		</li>
-		<li>
+		<li> Break Condition:
 			<ul>
 				<li>If current_end exceeds or reaches the last index, we break out of the loop.</li>
 			</ul>
