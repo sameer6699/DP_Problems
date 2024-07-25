@@ -33,3 +33,27 @@
 	<li><code>0 &lt;= nums[i] &lt;= 1000</code></li>
 	<li>It&#39;s guaranteed that you can reach <code>nums[n - 1]</code>.</li>
 </ul>
+<h1>Explanation</h1>
+<p>
+	<ul>
+		<li>Initialization: 
+		<ul>
+			<li>jumps keeps track of the number of jumps needed.</li>
+			<li>current_end marks the farthest point that can be reached with the current number of jumps.</li>
+			<li>farthest is the farthest point that can be reached from any index within the current range.</li>
+		</ul>
+		</li>
+		<li>
+			<ul>
+				<li>Iterate through the array (excluding the last element since reaching the last element is the goal).</li>
+				<li>For each index, update the farthest to be the maximum of its current value or the farthest point that can be reached from the current index.</li>
+				<li>If the current index reaches current_end, we need another jump to go further. Increment jumps and update current_end to farthest.</li>
+			</ul>
+		</li>
+		<li>
+			<ul>
+				<li>If current_end exceeds or reaches the last index, we break out of the loop.</li>
+			</ul>
+		</li>
+	</ul>
+</p>
