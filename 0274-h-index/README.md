@@ -27,3 +27,27 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 	<li><code>1 &lt;= n &lt;= 5000</code></li>
 	<li><code>0 &lt;= citations[i] &lt;= 1000</code></li>
 </ul>
+
+<h1>Explnation:</h1>
+<p>
+	<ul>
+		<li>sorting:
+  			<ul>
+				<li>Sort the citations array in descending order.</li>
+			</ul>	
+		</li>
+		<li>Finding t H-Index: 
+			<ul>
+				<li>Iterate through the sorted list.</li>
+				<li>For each citation value at index I, check if the citation is at least I + 1.</li>
+    				<li>If it is, update h_index to i + 1.</li>
+				<li>If it's not, break the loop since further elements will not satisfy the condition.</li>
+			</ul>
+		</li>
+		<li>Return the H-Index:
+			<ul>
+				<li> Return the final value of h_index. </li>
+			</ul>
+		</li>
+	</ul>
+</p>
