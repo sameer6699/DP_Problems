@@ -23,3 +23,17 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong>&nbsp;Can you solve the problem in <code>O(1)</code>&nbsp;extra&nbsp;space complexity? (The output array <strong>does not</strong> count as extra space for space complexity analysis.)</p>
+<h1>Explanation</h1>
+<p>
+	
+<ul>
+	<li><b>Initialization:</b> Create an answer array initialized with ones. This array will eventually hold the product of all elements except itself.</li>
+	<li><b>Prefix Products:</b> Iterate over the array from left to right. Store the product of all previous elements in the answer array for each element. Update the prefix product for the next 	 
+         iteration.</li>
+	<li><b>Suffix Products:</b> Iterate over the array from right to left. For each element, multiply the current value in the answer array (which holds the prefix product) by the suffix product. Update the suffix product for the next iteration.</li>
+</ul>
+</p>
+<p>
+	By combining the prefix and suffix products, each element in the answer array ends up being the product of all elements except itself.
+	This solution ensures that the problem is solved in O(n) time complexity and uses O(1) extra space complexity (ignoring the output array).
+</p>
