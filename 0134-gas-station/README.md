@@ -26,19 +26,42 @@ Therefore, return 3 as the starting index.
 <strong>Input:</strong> gas = [2,3,4], cost = [3,4,3]
 <strong>Output:</strong> -1
 <strong>Explanation:</strong>
-You can&#39;t start at station 0 or 1, as there is not enough gas to travel to the next station.
-Let&#39;s start at station 2 and fill up with 4 unit of gas. Your tank = 0 + 4 = 4
+You can&#39;t start at station 0 or 1, as there is insufficient gas to travel to the next station.
+Let&#39;s start at station 2 and fill up with 4 units of gas. Your tank = 0 + 4 = 4
 Travel to station 0. Your tank = 4 - 3 + 2 = 3
 Travel to station 1. Your tank = 3 - 3 + 3 = 3
-You cannot travel back to station 2, as it requires 4 unit of gas but you only have 3.
+You cannot travel back to station 2, as it requires 4 units of gas but you only have 3.
 Therefore, you can&#39;t travel around the circuit once no matter where you start.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li><code>n == gas.length == cost.length</code></li>
 	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= gas[i], cost[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<h1>Explanation</h1>
+<ol>
+	<li><b>Initialization:</b>
+	<ol>
+		<li>total_gas and total_cost are used to store the total amounts of gas and cost, respectively.</li>
+		<li> The tank keeps track of the current gas in the tank.</li>
+		<li>start_index is the candidate starting index for the gas station.</li>
+	</ol>
+	</li>
+	<li><b>Iterating through the gas stations:</b>
+	<ol>
+		<li>Accumulate total_gas and total_cost.</li>
+		<li>Update tank by adding the difference between gas[i] and cost[i].</li>
+		<li>If the tank becomes negative, it means you can't reach the next station from the current start index. Thus, reset the start_index to i + 1 and reset tank to 0.</li>
+	</ol>
+	</li>
+	<li><b>Checking the feasibility:</b>
+	<ol>
+		<li>After the loop, if total_gas is less than total_cost, it means it's impossible to complete the circuit, so return -1.</li>
+		<li>Otherwise, return start_index, which is the valid starting gas station index.</li>
+	</ol>
+	</li>
+</ol>
