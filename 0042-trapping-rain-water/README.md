@@ -32,13 +32,14 @@
 	Maintain two variables, <code> left_max,</code> and <code>right_max,</code> to store the maximum heights encountered from the left and right, respectively.
 	<br>Use a variable water to accumulate the total amount of trapped water.</p></li>
 	<li>Two-Pointer Traversal:<p>While left is less than right, compare the heights at the left and right pointers.
-	If the height at left is less than or equal to the height at right:
+	If the height on the left is less than or equal to the height on the right:
 If <code>height[left]</code> is greater than or equal to <code>left_max,</code> update <code>left_max.</code>
-Otherwise, calculate the trapped water at <code>left as left_max - height[left]</code> and add it to water.
+Otherwise, calculate the trapped water at <code>left as left_max - height[left]</code> and add it to the water.
 Move the left pointer to the right.
 If the height at the right is less than the height at the left:
 If height[right] is greater than or equal to right_max, update right_max.<br>
-Otherwise, calculate the trapped water at right as right_max - height[right] and add it to water.
+Otherwise, calculate the trapped water at right as right_max - height[right] and add it to the water.
 Move the right pointer to the left.</p></li>
 </ul>
+<h1> Approach to solve this problem </h1>
 
