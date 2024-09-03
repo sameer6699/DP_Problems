@@ -42,4 +42,19 @@ Otherwise, calculate the trapped water at right as right_max - height[right] and
 Move the right pointer to the left.</p></li>
 </ul>
 <h1> Approach to solve this problem </h1>
+<p> To solve the "Trapping Rain Water" problem, we need to calculate the amount of water that can be trapped between bars of different heights in an elevation map.</p>
+<p>We can solve this problem in O(n) time complexity using a two-pointer approach:</p>
+<pre>
+<ul>
+	<li> Initialize Two Pointers and Variables:</li>
+	<p>Use two pointers (left and right) starting at the beginning and end of the elevation map. Also, maintain two variables left_max and right_max to store the maximum heights seen so far from the left and right sides.</p>
+	<li>Calculate Water Trapped:</li>
+	<p> If height[left] is less than height[right], we consider the left pointer:
+	If height[left] is greater than or equal to left_max, update left_max.
+	Otherwise, calculate the water trapped at left as left_max - height[left].</p>
+	<li>If height[right] is less than or equal to height[left], we consider the right pointer:</li>
+	<p>If height[right] is greater than or equal to right_max, update right_max.
+Otherwise, calculate the water trapped at right as right_max - height[right].</p>
+</ul>
+</pre>
 
