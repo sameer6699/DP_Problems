@@ -173,6 +173,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0042-trapping-rain-water](https://github.com/sameer6699/DP_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sameer6699/DP_Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sameer6699/DP_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sameer6699/DP_Problems/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/sameer6699/DP_Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sameer6699/DP_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer6699/DP_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -189,6 +190,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0039-combination-sum](https://github.com/sameer6699/DP_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer6699/DP_Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sameer6699/DP_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sameer6699/DP_Problems/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
