@@ -174,6 +174,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0045-jump-game-ii](https://github.com/sameer6699/DP_Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sameer6699/DP_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sameer6699/DP_Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/sameer6699/DP_Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/sameer6699/DP_Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sameer6699/DP_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer6699/DP_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -220,6 +221,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/sameer6699/DP_Problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sameer6699/DP_Problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sameer6699/DP_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -271,4 +273,8 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/sameer6699/DP_Problems/tree/master/0044-wildcard-matching) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sameer6699/DP_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
