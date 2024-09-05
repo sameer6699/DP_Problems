@@ -226,6 +226,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | ------- |
 | [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sameer6699/DP_Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sameer6699/DP_Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sameer6699/DP_Problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sameer6699/DP_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -277,6 +278,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/sameer6699/DP_Problems/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/sameer6699/DP_Problems/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
