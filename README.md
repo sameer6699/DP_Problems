@@ -164,6 +164,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0038-count-and-say](https://github.com/sameer6699/DP_Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sameer6699/DP_Problems/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/sameer6699/DP_Problems/tree/master/0049-group-anagrams) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +176,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0046-permutations](https://github.com/sameer6699/DP_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sameer6699/DP_Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sameer6699/DP_Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sameer6699/DP_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sameer6699/DP_Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sameer6699/DP_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer6699/DP_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +204,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sameer6699/DP_Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sameer6699/DP_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sameer6699/DP_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -211,6 +214,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sameer6699/DP_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/sameer6699/DP_Problems/tree/master/0274-h-index) |
 ## Counting
