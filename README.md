@@ -165,6 +165,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sameer6699/DP_Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sameer6699/DP_Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sameer6699/DP_Problems/tree/master/0076-minimum-window-substring) |
 ## Array
 |  |
 | ------- |
@@ -205,6 +206,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | ------- |
 | [0041-first-missing-positive](https://github.com/sameer6699/DP_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sameer6699/DP_Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sameer6699/DP_Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sameer6699/DP_Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sameer6699/DP_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -283,4 +285,8 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sameer6699/DP_Problems/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sameer6699/DP_Problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
