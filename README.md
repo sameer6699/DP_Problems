@@ -178,6 +178,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0047-permutations-ii](https://github.com/sameer6699/DP_Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sameer6699/DP_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sameer6699/DP_Problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sameer6699/DP_Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sameer6699/DP_Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sameer6699/DP_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer6699/DP_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0040-combination-sum-ii](https://github.com/sameer6699/DP_Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sameer6699/DP_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sameer6699/DP_Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sameer6699/DP_Problems/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
