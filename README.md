@@ -161,6 +161,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sameer6699/DP_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/sameer6699/DP_Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sameer6699/DP_Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sameer6699/DP_Problems/tree/master/0044-wildcard-matching) |
@@ -206,6 +207,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sameer6699/DP_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/sameer6699/DP_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sameer6699/DP_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sameer6699/DP_Problems/tree/master/0076-minimum-window-substring) |
@@ -290,5 +292,6 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sameer6699/DP_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sameer6699/DP_Problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
