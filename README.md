@@ -235,6 +235,7 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | [0050-powx-n](https://github.com/sameer6699/DP_Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sameer6699/DP_Problems/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sameer6699/DP_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1585-the-kth-factor-of-n](https://github.com/sameer6699/DP_Problems/tree/master/1585-the-kth-factor-of-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,4 +295,8 @@ In this Repository, You'll Find the Dynamic Programming & DSA Solved Problems
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sameer6699/DP_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sameer6699/DP_Problems/tree/master/0076-minimum-window-substring) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/sameer6699/DP_Problems/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
